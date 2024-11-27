@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://theoslv.fr](https://theoslv.fr)
 
-- 📝 My profile THM [https://tryhackme.com/r/p/katsuki](katsuki)
+- 📝 My profile THM [https://tryhackme.com/r/p/katsuki](https://tryhackme.com/r/p/katsuki)
 - 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/katsuki.png" alt="Your Image Badge" />
 
