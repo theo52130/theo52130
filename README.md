@@ -3,7 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://theoslv.fr](https://theoslv.fr)
 
-- 📝 My profile THM [https://tryhackme.com/r/p/katsuki](https://tryhackme.com/r/p/katsuki)
+- 📝 My profile THM [https://tryhackme.com/r/p/katsuki](katsuki profile)
+- 
+- <img src="https://tryhackme-badges.s3.amazonaws.com/katsuki.png" alt="Your Image Badge" />
 
 - ⚡ Fun fact **I'm training to be a web developer**
 
@@ -17,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theo52130&show_icons=true&locale=en&layout=compact" alt="theo52130" /></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/katsuki.png" alt="Your Image Badge" />
