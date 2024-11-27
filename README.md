@@ -19,5 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theo52130&show_icons=true&locale=en" alt="theo52130" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1964678" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/katsuki.png" alt="Your Image Badge" />
