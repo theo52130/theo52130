@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate developer from France</h3>
+# Salut, moi c'est Théo ! 👋
 
-- 👨‍💻 All of my projects are available at [https://theoslv.fr](https://theoslv.fr)
+Bienvenue sur mon profil GitHub.  
+Étudiant passionné par le développement web et la cybersécurité,  
+en formation pour le dev 💻 et en autodidacte pour la sécu 🛡️
 
-- 📝 My profile THM [https://tryhackme.com/r/p/katsuki](https://tryhackme.com/r/p/katsuki)
-- 
-- <img src="https://tryhackme-badges.s3.amazonaws.com/katsuki.png" alt="Your Image Badge" />
+---
 
-- ⚡ Fun fact **I'm training to be a web developer**
+## 👨‍🎓 À propos de moi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tsalvadori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsalvadori" height="30" width="40" /></a>
-</p>
+- 📚 Étudiant en développement web (en formation)
+- 🛡️ Apprenti en cybersécurité (en autonomie)
+- 🌱 J’aime apprendre, tester, bidouiller et progresser chaque jour
+- 🐧 Fan de Linux & d’automatisation
+- 🚀 En quête de nouveaux challenges et de bonnes pratiques
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theo52130&show_icons=true&locale=en&layout=compact" alt="theo52130" /></p>
+## 🌐 Où me trouver ?
 
+- 💼 Portfolio : [https://theoslv.fr](https://theoslv.fr)
+- 🕵️ TryHackMe : [katsuki](https://tryhackme.com/p/katsuki)
+
+---
+
+## 🛠️ Technologies & outils
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgresql,docker,linux,bash,nginx,git,github,vscode,figma,tailwind)
+
+---
+
+## 📊 Statistiques GitHub
+
+![theo52130's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theo52130&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo52130&layout=compact&theme=tokyonight)
+
+---
+
+## 🚩 TryHackMe Badge
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/katsuki.png)](https://tryhackme.com/p/katsuki)
+
+---
+
+## 🤝 Me contacter
+
+<a href="https://www.linkedin.com/in/theo52130/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30"/>
+</a>
+<a href="https://theoslv.fr" target="_blank">
+  <img src="https://img.shields.io/badge/Site%20web-222222?logo=about.me&style=for-the-badge" height="30"/>
+</a>
+
+---
+
+_« Apprendre, c’est progresser un peu chaque jour. »_ 🚀
